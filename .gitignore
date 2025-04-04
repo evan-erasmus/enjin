@@ -1,2 +1,6 @@
 .vscode
 .excluded
+
+build
+bin
+error.log
